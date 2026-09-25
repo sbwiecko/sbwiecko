@@ -2,6 +2,12 @@
 
 [LinkedIn](https://linkedin.com/in/sbwiecko) | [X](https://x.com/secondscight) | [Google Scholar](https://scholar.google.com/citations?user=fzECT2QAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Sebastien_Wieckowski) | [GitHub](https://github.com/sbwiecko) | [Email](mailto:sb.wiecko@gmail.com)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sbwiecko-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sbwiecko)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Sébastien_Wieckowski-4285F4?style=flat-square&logo=google&logoColor=white)](https://scholar.google.com/citations?user=fzECT2QAAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Sébastien_Wieckowski-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sebastien_Wieckowski)
+[![X](https://img.shields.io/badge/X-@secondscight-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/secondscight)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=minutemailer&logoColor=white)](mailto:your.email@example.com)
+
 **Strategic R&D Leader and Hybrid Scientist.** I am a multidisciplinary PhD Immunologist with over 15 years of leadership in biotech R&D. I orchestrate the full drug development value chain by bridging biological complexity and computational integrity. My mission is to accelerate the discovery of next-generation therapeutics by leveraging applied AI, machine learning, and IT-grade biostatistics into reproducible, version-controlled workflows.
 
 *Université Louis Pasteur Strasbourg, Ph.D. Immunology · Université Montpellier II, M.Sc. Health Biology & B.Sc. Biochemistry/Bioinformatics*
