@@ -1,7 +1,5 @@
 # Hey, I'm Sébastien Wieckowski, Ph.D. 👋
 
-[LinkedIn](https://linkedin.com/in/sbwiecko) | [X](https://x.com/secondscight) | [Google Scholar](https://scholar.google.com/citations?user=fzECT2QAAAAJ&hl=en) | [ResearchGate](https://www.researchgate.net/profile/Sebastien_Wieckowski) | [GitHub](https://github.com/sbwiecko) | [Email](mailto:sb.wiecko@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sbwiecko-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sbwiecko)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Sébastien_Wieckowski-4285F4?style=flat-square&logo=google&logoColor=white)](https://scholar.google.com/citations?user=fzECT2QAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Sébastien_Wieckowski-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sebastien_Wieckowski)
