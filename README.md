@@ -1,4 +1,4 @@
-# Hey, I'm Sébastien Wieckowski, Ph.D. 👋
+# Hey, I'm Sébastien Wieckowski👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-sbwiecko-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sbwiecko)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Sébastien_Wieckowski-4285F4?style=flat-square&logo=google&logoColor=white)](https://scholar.google.com/citations?user=fzECT2QAAAAJ&hl=en)
