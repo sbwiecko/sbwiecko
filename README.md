@@ -1,10 +1,9 @@
 # Hey, I'm Sébastien Wieckowski👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sbwiecko-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sbwiecko)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Sébastien_Wieckowski-4285F4?style=flat-square&logo=google&logoColor=white)](https://scholar.google.com/citations?user=fzECT2QAAAAJ&hl=en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sbwiecko-0077B5?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTE5IDBoLTE0Yy0yLjc2MSAwLTUgMi4yMzktNSA1djE0YzAgMi43NjEgMi4yMzkgNSA1IDVoMTRjMi43NjIgMCA1LTIuMjM5IDUtNXYtMTRjMC0yLjc2MS0yLjIzOC01LTUtNXptLTExIDE5aC0zdi0xMWgzdjExem0tMS41LTEyLjI2OGMtLjk2NiAwLTEuNzUtLjc5LTEuNzUtMS43NjRzLjc4NC0xLjc2NCAxLjc1LTEuNzY0IDEuNzUuNzkgMS43NSAxLjc2NC0uNzgzIDEuNzY0LTEuNzUgMS43NjR6bTEzLjUgMTIuMjY4aC0zdi01LjYwNGMwLTMuMzY4LTQtMy4xMTMtNCAwdjUuNjA0aC0zdi0xMWgzdjEuNzY1YzEuMzk2LTIuNTg2IDctMi43NzcgNyAyLjQ3NnY2Ljc1OXoiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white)](https://linkedin.com/in/sbwiecko)
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--8121--4446-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-8121-4446)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Sébastien_Wieckowski-00CCBB?style=flat-square&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Sebastien_Wieckowski)
-[![X](https://img.shields.io/badge/X-@secondscight-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/secondscight)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=flat-square&logo=minutemailer&logoColor=white)](mailto:your.email@example.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Sébastien_Wieckowski-4285F4?style=flat-square&logo=google&logoColor=white)](https://scholar.google.com/citations?user=fzECT2QAAAAJ&hl=en)
 
 **Strategic R&D Leader and Hybrid Scientist.** I am a multidisciplinary PhD Immunologist with over 15 years of leadership in biotech R&D. I orchestrate the full drug development value chain by bridging biological complexity and computational integrity. My mission is to accelerate the discovery of next-generation therapeutics by leveraging applied AI, machine learning, and IT-grade biostatistics into reproducible, version-controlled workflows.
 
